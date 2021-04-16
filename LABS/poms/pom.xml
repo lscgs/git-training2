@@ -14,6 +14,7 @@
     <module>jobs/process/gittestjob_0.1</module>
     <module>jobs/process/gittestjob2_0.1</module>
     <module>jobs/process/gittestjob3_0.1</module>
+    <module>jobs/process/gittestjob4_0.1</module>
   </modules>
   <properties>
     <talend.project.name>LABS</talend.project.name>
